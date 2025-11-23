@@ -17,4 +17,4 @@ To run the function simply update the values of the last line of the file `thoug
 
 ### Tests ✅
 
-To run the tests simply run the command `pytest` on the `tests` folder of the repository.
+To run the tests simply run the command `pytest` on the root folder of the repository.
